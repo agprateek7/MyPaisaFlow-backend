@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# environment variables
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# uploads (if you don't want to track uploaded files)
+uploads/
+
+# editor & system files
+.vscode/
+.idea
+.DS_Store
